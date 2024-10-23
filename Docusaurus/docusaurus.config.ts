@@ -10,7 +10,7 @@ const config: Config = {
   baseUrl: '/242saurus/',
   organizationName: 'setiawans', // Usually your GitHub org/user name.
   projectName: '242saurus', // Usually your repo name.
-  trailingSlash: true,  
+  trailingSlash: true, 
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
