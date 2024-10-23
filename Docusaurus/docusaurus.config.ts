@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '242saurus',
-  tagline: 'docusaurus... more like rawrsaurus',
+  tagline: 'This is the Way!',
   favicon: 'img/favicon.ico',
   url: 'https://setiawans.github.io',
   baseUrl: '/242saurus/',
