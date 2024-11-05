@@ -21,3 +21,15 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+setiawans:
+  name: Steven Setiawan
+  title: CTF Enthusiast
+  url: https://github.com/setiawans
+  image_url: https://github.com/setiawans.png
+
+papaChick:
+  name: Christian Raphael Heryanto
+  title: Web Exploitation Lover
+  url: https://github.com/papaChick
+  image_url: https://github.com/papaChick.png
